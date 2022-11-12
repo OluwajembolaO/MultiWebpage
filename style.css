@@ -1,0 +1,25 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+a:hover{
+  background-color:Blue;
+  color:Black}
+a:active{
+  Background-color:Red;
+  color:White}
+
+}
+p:first-letter{
+  font-size:5em
+}
+nav a {
+  text-decoration: none;
+  margin:20px;
+}
+#WelcomeToSpace{
+  color:#a333ff;
+  text-align:center;
+}
+/*Comment For CSS*/
