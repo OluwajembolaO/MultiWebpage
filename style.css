@@ -2,7 +2,6 @@ html, body {
   height: 100%;
   width: 100%;
 }
-
 a:hover{
   background-color:Blue;
   color:Black}
@@ -21,5 +20,10 @@ nav a {
 #WelcomeToSpace{
   color:#a333ff;
   text-align:center;
+  font-size:50px;
+}
+#spaceMedia{
+  color:#FFFFFF;
+  font-size:50px;
 }
 /*Comment For CSS*/
